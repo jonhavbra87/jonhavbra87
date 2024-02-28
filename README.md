@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://portfolio.kongsvinger-it.no/">
-    <img style="border-radius: 50%;" width="300px" src="/img/profile.jpg" alt="Profile Image">
+    <img width="300px" src="/img/profile.jpg" alt="Profile Image">
   </a>
 </div>
 
