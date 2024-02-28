@@ -26,21 +26,20 @@ Here are some ideas to get you started:
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a student Front End @ Noroff School of Technology and Digital Media
+- 👨🏽‍💻 I’m currently a Front End student @ Noroff School of Technology and Digital Media.
 - 🌱 I’m currently learning HTML, CSS & vanilla JavaScript.
-- 🔭 I´m going to learn CSS and JS framework
-- 🤔 My interest lies in front-end, design and creating with HTML CSS and JavaScript.
-- 💬 Ask me about anything from [mail@kongsvinger-it.no](mailto:mail@kongsvinger-it.no), I love to answer!
+- 🔭 I´m going to learn CSS and JS framework in 2024.
+- 🤔 My interest lies in front-end, design and creating websites with HTML CSS and JavaScript.
+- 💬 Ask me a question and send me an e-mail [mail@kongsvinger-it.no](mailto:mail@kongsvinger-it.no), I love to answer!
 - 🌐 You can see my personal website through [here](https://portfolio.kongsvinger-it.no/)
 
-<p style="display: inline-block;" align="center">
-  <kbd style="background: snow">
+<p style="display: inline-block;" align="center" widht="80%">
+  <kbd>
         <kbd>
         <kbd>Programming Languages</kbd>
         <br>
         <br>
         <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  -->
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
     </kbd>
     <kbd>
