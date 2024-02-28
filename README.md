@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.kongsvinger-it.no">
- <img width="300px" src = "/img/profile.jpg"/>
+ <img style="display: inline-block;" align="center" width="300px" src = "/img/profile.jpg"/>
  </a>
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently AI Team Lead @ Global AI Hub
-- 🌱 I’m currently developing .NET Core projects and Data Science projects
-- 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning and Flutter
-- 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
-- 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
+- 👨🏽‍💻 I’m currently a student Front End @ Noroff School of Technology and Digital Media
+- 🌱 I’m currently learning HTML, CSS & vanilla JavaScript.
+- 🔭 I´m going to learn CSS and JS framework
+- 🤔 My interest lies in front-end, design and creating with HTML CSS and JavaScript.
+- 💬 Ask me about anything from [mail@kongsvinger-it.no](mailto:mail@kongsvinger-it.no), I love to answer!
+- 🌐 You can see my personal website through [here](https://www.portfolio.kongsvinger-it.no)
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -35,47 +36,34 @@ Here are some ideas to get you started:
     <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  -->
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /> 
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />  -->
     <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
     <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" /> -->
   </kbd>
-  <kbd>
   <br>
   <br>
- 
   <kbd>
-    <kbd>System, Networking & Deployment</kbd>
+    <kbd>Cloud & Hosting</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Terminal Scripts</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
@@ -90,17 +78,14 @@ Here are some ideas to get you started:
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekyaygilFethi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhavbra87&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">	
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TekyaygilFethi&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonhavbra87&theme=holi-theme">
 </p>
 
 ---
 
-Credits: [Fethi Tekyaygil](https://github.com/TekyaygilFethi)
+Design credits: [Fethi Tekyaygil](https://github.com/TekyaygilFethi)
 
-Last Edited on: 20/01/2022
+Last Edited on: 02/28/2024
