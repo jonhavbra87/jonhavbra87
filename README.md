@@ -70,7 +70,7 @@
         <kbd>Reach Me</kbd>
         <br>
         <br>
-        [mail@kongsvinger-it.no](mailto:mail@kongsvinger-it.no)<img width="50px" src="https://camo.githubusercontent.com/e626c5e6524798b6b31cb05eddba0fb781bd2f920f11fa3261692e61db288696/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6f75746c6f6f6b2e737667" />
+    <img mailto:mail@kongsvinger-it.no width="50px" src="https://camo.githubusercontent.com/e626c5e6524798b6b31cb05eddba0fb781bd2f920f11fa3261692e61db288696/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6f75746c6f6f6b2e737667" />
     </kbd>
     </kbd>
 </p>
