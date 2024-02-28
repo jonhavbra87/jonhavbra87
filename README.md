@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.kongsvinger-it.no">
- <img src = "/img/profile.jpg"/>
+ <img width="300px" src = "/img/profile.jpg"/>
  </a>
 
 **About Me!**
