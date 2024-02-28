@@ -39,27 +39,27 @@ Here are some ideas to get you started:
         <kbd>Programming Languages</kbd>
         <br>
         <br>
-        <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  -->
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+        <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  -->
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
     </kbd>
     <kbd>
         <kbd>Back-end</kbd>
         <br>
         <br>
-        <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
+        <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
     </kbd>
     <kbd>
         <kbd>Front-end</kbd>
         <br>
         <br>
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-        <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />  -->
-        <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-        <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
-        <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" /> -->
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+        <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />  -->
+        <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+        <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
+        <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" /> -->
     </kbd>
     <br>
     <br>
@@ -67,15 +67,15 @@ Here are some ideas to get you started:
         <kbd>Cloud & Hosting</kbd>
         <br>
         <br>
-        <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" />
-        <img width="30px" style="background-color: snow" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+        <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" />
+        <img width="50px" style="background-color: snow" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
     </kbd>
     <kbd>
         <kbd>Tools</kbd>
         <br>
         <br>
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
     </kbd>
     </kbd>
 </p>
