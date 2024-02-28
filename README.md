@@ -33,8 +33,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything from [mail@kongsvinger-it.no](mailto:mail@kongsvinger-it.no), I love to answer!
 - 🌐 You can see my personal website through [here](https://portfolio.kongsvinger-it.no/)
 
+<style>
+  .programming-table {
+    background-color: lightgray;
+    padding: 10px; 
+    border-radius: 10px;
+  }
+</style>
+
 <p style="display: inline-block;" align="center">
-  <kbd>
+  <kbd class="programming-table">
         <kbd>
         <kbd>Programming Languages</kbd>
         <br>
