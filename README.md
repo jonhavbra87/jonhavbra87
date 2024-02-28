@@ -35,19 +35,6 @@ Here are some ideas to get you started:
 
 <p style="display: inline-block;" align="center" widht="80%">
   <kbd>
-        <kbd>
-        <kbd>Programming Languages</kbd>
-        <br>
-        <br>
-        <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  -->
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-    </kbd>
-    <kbd>
-        <kbd>Back-end</kbd>
-        <br>
-        <br>
-        <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
-    </kbd>
     <kbd>
         <kbd>Front-end</kbd>
         <br>
@@ -60,6 +47,12 @@ Here are some ideas to get you started:
         <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
         <img width="50px" src="https://camo.githubusercontent.com/d5de95dd0d27e74bfe80901cdea3688b2d4c82357c2a6466f6dd03c8fb2e7b56/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f776f726470726573732e737667" />
         <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" /> -->
+    </kbd>
+        <kbd>
+        <kbd>Back-end</kbd>
+        <br>
+        <br>
+        <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
     </kbd>
     <br>
     <br>
