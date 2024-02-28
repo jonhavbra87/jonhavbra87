@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🌐 You can see my personal website through [here](https://portfolio.kongsvinger-it.no/)
 
 <p style="display: inline-block;" align="center">
-  <kbd style="background-color: black;  padding: 10px; border-radius: 10px;" >
+  <kbd style="padding: 15px; border-radius: 20px;" >
         <kbd>
         <kbd>Programming Languages</kbd>
         <br>
