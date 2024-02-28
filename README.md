@@ -58,7 +58,7 @@ Here are some ideas to get you started:
         <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-        <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
+        <img width="50px" src="https://camo.githubusercontent.com/d5de95dd0d27e74bfe80901cdea3688b2d4c82357c2a6466f6dd03c8fb2e7b56/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f776f726470726573732e737667" />
         <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" /> -->
     </kbd>
     <br>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
         <br>
         <br>
         <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" />
-        <img width="50px" style="background-color: snow" src="https://camo.githubusercontent.com/6859b81bad9211632c09ba0ba5aff3ce23d87f38bd199a05cfdd67b70d8ef58e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" />
+        <img width="50px" src="https://camo.githubusercontent.com/6859b81bad9211632c09ba0ba5aff3ce23d87f38bd199a05cfdd67b70d8ef58e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" />
     </kbd>
     <kbd>
         <kbd>Tools</kbd>
@@ -81,7 +81,19 @@ Here are some ideas to get you started:
     <br>
     <kbd>
      <kbd>Connect with me</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://camo.githubusercontent.com/6eeeae9698286e45eda5d2973026a896fd42fa7f4271bf31aa74e9557e82181a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667">
     <img width="50px" src="https://camo.githubusercontent.com/f66a24788a2818b82624c61c17c513d16ea14ac6c579dd1c2b3ffe5df8c6cc22/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667">
+    <img width="50px" src="https://camo.githubusercontent.com/05bf51513179d5b864921ba868f4bf54d2d74054f8f293f4569d969409b60a69/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667">
+    <img width="50px" src="https://camo.githubusercontent.com/d94fd60f67ea9647bb508da87ad32b1eacd2bfb6745fac2be9869f9483bd0dca/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667">
+    <img width="50px" src="">
+    </kbd>
+        <kbd>
+        <kbd>Reach Me</kbd>
+        <br>
+        <br>
+        <a href="mail@kongsvinger-it.no"><img width="50px" src="https://camo.githubusercontent.com/e626c5e6524798b6b31cb05eddba0fb781bd2f920f11fa3261692e61db288696/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6f75746c6f6f6b2e737667" /></a>
     </kbd>
     </kbd>
 </p>
