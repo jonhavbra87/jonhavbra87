@@ -68,7 +68,7 @@ Here are some ideas to get you started:
         <br>
         <br>
         <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" />
-        <img width="50px" style="background-color: snow" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+        <img width="50px" style="background-color: snow" src="https://iconmonstr.com/github-1-svg/" />
     </kbd>
     <kbd>
         <kbd>Tools</kbd>
