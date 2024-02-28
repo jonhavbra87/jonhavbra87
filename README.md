@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a Front End student @ Noroff School of Technology and Digital Media.
-- 🌱 I’m currently learning HTML, CSS & vanilla JavaScript.
+- 🌱 I’m currently learning HTML, CSS & Vanilla JavaScript.
 - 🔭 I´m going to learn CSS and JS framework in 2024.
 - 🤔 My interest lies in front-end, design and creating websites with HTML CSS and JavaScript.
 - 💬 Ask me a question and send me an e-mail [mail@kongsvinger-it.no](mailto:mail@kongsvinger-it.no), I love to answer!
