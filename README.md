@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jonhavbra87/jonhavbra87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <a href="https://portfolio.kongsvinger-it.no/">
     <img width="300px" src="/img/profile.jpg" alt="Profile Image">
@@ -85,9 +70,8 @@ Here are some ideas to get you started:
         <kbd>Reach Me</kbd>
         <br>
         <br>
-        <a href="mail@kongsvinger-it.no"><img width="50px" src="https://camo.githubusercontent.com/e626c5e6524798b6b31cb05eddba0fb781bd2f920f11fa3261692e61db288696/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6f75746c6f6f6b2e737667" />
+        [mail@kongsvinger-it.no](mailto:mail@kongsvinger-it.no)<img width="50px" src="https://camo.githubusercontent.com/e626c5e6524798b6b31cb05eddba0fb781bd2f920f11fa3261692e61db288696/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6f75746c6f6f6b2e737667" />
     </kbd>
-           </kbd>
     </kbd>
 </p>
 
