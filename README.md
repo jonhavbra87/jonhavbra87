@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.fethitekyaygil.com">
- <img src = "https://github.com/TekyaygilFethi/TekyaygilFethi/blob/main/Entrance.gif">
+<a href="https://www.kongsvinger-it.no">
+ <img src = "/img/profile.jpg"/>
  </a>
 
 **About Me!**
