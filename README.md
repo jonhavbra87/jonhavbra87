@@ -21,10 +21,21 @@
 ---
 ## My skills 
 **Front End**
+<br>
 [![Front End Development](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,swift,vite)](https://skillicons.dev)
 
 **Back End**
+<br>
 [![Front End Development](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+
+**Cloud Service**
+<br>
+[![Front End Development](https://skillicons.dev/icons?i=netlify,github,vercel)](https://skillicons.dev)
+
+**Tools**
+<br>
+[![Front End Development](https://skillicons.dev/icons?i=vscode,postman,vite)](https://skillicons.dev)
+
 <p style="display: inline-block;" align="center" widht="80%">
   <kbd>
     <kbd>
