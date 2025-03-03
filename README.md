@@ -38,10 +38,9 @@
 
 **Connect with me**
 <br>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-[![Front End Development](https://skillicons.dev/icons?i=linkedin)](https://no.linkedin.com/in/jon-are-haver%C3%A5en-bratt%C3%A5s-5a3805262?trk=people-guest_people_search-card")
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://no.linkedin.com/in/jon-are-haver%C3%A5en-bratt%C3%A5s-5a3805262?trk=people-guest_people_search-card")
+[![LinkedIn](https://skillicons.dev/icons?i=gmail)](href="mailto:kontakt@brattaasutvikling.no)
+[![Instagram (https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jonareb87?igsh=MTAwdDEzZHFwMWFjbQ%3D%3D&utm_source=qr")
 
 <p style="display: inline-block;" align="center" widht="80%">
   <kbd>
