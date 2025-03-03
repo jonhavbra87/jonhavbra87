@@ -18,6 +18,9 @@
 - 💬 Ask me a question and send me an e-mail [kontakt@brattaasutvikling.no](mailto:kontakt@brattaasutvikling.no), I love to answer!
 - 🌐 You can see my personal website through [here](https://brattaasutvikling.no)
 
+---
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,ts)](https://skillicons.dev)
+
 <p style="display: inline-block;" align="center" widht="80%">
   <kbd>
     <kbd>
