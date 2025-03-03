@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <a href="https://portfolio.kongsvinger-it.no/">
+  <a href="https://brattaasutvikling.no/">
     <img width="300px" src="/img/profile.jpg" alt="Profile Image">
   </a>
 </div>
@@ -16,90 +16,32 @@
 - 🔭 I´m going to learn Next.js and hosting webapplications at Vercel.
 - 🤔 My interest lies in front-end, design and creating websites with Rect, TypeScript and Next.js. I also like appdevelopment in React-Native and Swift UI!
 - 💬 Ask me a question and send me an e-mail [kontakt@brattaasutvikling.no](mailto:kontakt@brattaasutvikling.no), I love to answer!
-- 🌐 You can see my personal website through [here](https://brattaasutvikling.no)
+- 🌐 You can see my personal website through [brattaasutvikling.no](https://brattaasutvikling.no)
 
 ---
 ## My skills 
 **Front End**
 <br>
-[![Front End Development](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,swift,vite)](https://skillicons.dev)
+[![Front_End_Development](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,swift)](https://skillicons.dev)
 
 **Back End**
 <br>
-[![Front End Development](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![Back_End_Development](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 
 **Cloud Service**
 <br>
-[![Front End Development](https://skillicons.dev/icons?i=netlify,github,vercel)](https://skillicons.dev)
+[![Cloud_Services](https://skillicons.dev/icons?i=netlify,github,vercel)](https://skillicons.dev)
 
 **Tools**
 <br>
-[![Front End Development](https://skillicons.dev/icons?i=vscode,postman,vite,notion)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,vite,notion)](https://skillicons.dev)
 
 **Connect with me**
 <br>
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://no.linkedin.com/in/jon-are-haver%C3%A5en-bratt%C3%A5s-5a3805262?trk=people-guest_people_search-card")
-<a>[![LinkedIn](https://skillicons.dev/icons?i=gmail)](href="mailto:kontakt@brattaasutvikling.no)</a>
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jonareb87?igsh=MTAwdDEzZHFwMWFjbQ%3D%3D&utm_source=qr")
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kontakt@brattaasutvikling.no)
 
-<p style="display: inline-block;" align="center" widht="80%">
-  <kbd>
-    <kbd>
-        <kbd>Front-end</kbd>
-        <br>
-        <br>
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-        <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />  -->
-        <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-        <img width="50px" src="https://camo.githubusercontent.com/d5de95dd0d27e74bfe80901cdea3688b2d4c82357c2a6466f6dd03c8fb2e7b56/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f776f726470726573732e737667" />
-        <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" /> -->
-    </kbd>
-        <kbd>
-        <kbd>Back-end</kbd>
-        <br>
-        <br>
-        <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-        <kbd>Cloud & Hosting</kbd>
-        <br>
-        <br>
-        <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" />
-        <img width="50px" src="https://camo.githubusercontent.com/6859b81bad9211632c09ba0ba5aff3ce23d87f38bd199a05cfdd67b70d8ef58e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" />
-    </kbd>
-    <kbd>
-        <kbd>Tools</kbd>
-        <br>
-        <br>
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-     <kbd>Connect with me</kbd>
-    <br>
-    <br>
-       <a href="https://no.linkedin.com/in/jon-are-haver%C3%A5en-bratt%C3%A5s-5a3805262?trk=people-guest_people_search-card"><img width="50px" src="https://camo.githubusercontent.com/6eeeae9698286e45eda5d2973026a896fd42fa7f4271bf31aa74e9557e82181a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" /></a>
-        <a href="https://www.discord.com"><img width="50px" src="https://camo.githubusercontent.com/f66a24788a2818b82624c61c17c513d16ea14ac6c579dd1c2b3ffe5df8c6cc22/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" /></a>
-     <a href="https://www.facebook.com"><img width="50px" src="https://camo.githubusercontent.com/05bf51513179d5b864921ba868f4bf54d2d74054f8f293f4569d969409b60a69/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" /></a>
-         <a href="https://www.instagram.com/jonareb87?igsh=MTAwdDEzZHFwMWFjbQ%3D%3D&utm_source=qr"><img width="50px" src="https://camo.githubusercontent.com/d94fd60f67ea9647bb508da87ad32b1eacd2bfb6745fac2be9869f9483bd0dca/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /></a>
-    </kbd>
-        <kbd>
-        <kbd>Reach Me</kbd>
-        <br>
-        <br>
-<a href="mailto:mail@kongsvinger-it.no">
-  <img width="50px" src="https://camo.githubusercontent.com/e626c5e6524798b6b31cb05eddba0fb781bd2f920f11fa3261692e61db288696/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6f75746c6f6f6b2e737667" />
-</a>
-    </kbd>
-  </kbd>
-</p>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
@@ -115,4 +57,4 @@
 
 Design credits: [Fethi Tekyaygil](https://github.com/TekyaygilFethi)
 
-Last Edited on: 02/28/2024
+Last Edited on: 03/03/2025
