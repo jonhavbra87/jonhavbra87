@@ -34,7 +34,11 @@
 
 **Tools**
 <br>
-[![Front End Development](https://skillicons.dev/icons?i=vscode,postman,vite)](https://skillicons.dev)
+[![Front End Development](https://skillicons.dev/icons?i=vscode,postman,vite,notion)](https://skillicons.dev)
+
+**Connect with me**
+<br>
+[![Front End Development](https://skillicons.dev/icons?i=linkedin)]([https://no.linkedin.com/in/jon-are-haver%C3%A5en-bratt%C3%A5s-5a3805262?trk=people-guest_people_search-card"><img width="50px" src="https://camo.githubusercontent.com/6eeeae9698286e45eda5d2973026a896fd42fa7f4271bf31aa74e9557e82181a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667)]
 
 <p style="display: inline-block;" align="center" widht="80%">
   <kbd>
