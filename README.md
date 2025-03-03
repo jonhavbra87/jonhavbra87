@@ -20,9 +20,11 @@
 
 ---
 ## My skills 
+**Front End**
 [![Front End Development](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,swift,vite)](https://skillicons.dev)
 
-
+**Back End**
+[![Front End Development](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 <p style="display: inline-block;" align="center" widht="80%">
   <kbd>
     <kbd>
