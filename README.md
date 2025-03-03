@@ -19,7 +19,9 @@
 - 🌐 You can see my personal website through [here](https://brattaasutvikling.no)
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,ts)](https://skillicons.dev)
+## My skills 
+[![Front End Development](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,swift,vite)](https://skillicons.dev)
+
 
 <p style="display: inline-block;" align="center" widht="80%">
   <kbd>
