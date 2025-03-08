@@ -15,7 +15,7 @@
 - 🌱 I’m currently developing my skills in React, TypeScript and React-Native.
 - 🔭 I´m going to learn Next.js and hosting webapplications at Vercel.
 - 🤔 My interest lies in front-end, design and creating websites with React, TypeScript and Next.js. I also like app-development in React-Native and Swift UI!
-- 💬 Ask me a question and send me an e-mail [jonare@brattaasutvikling.no](mailto:kontakt@brattaasutvikling.no), I love to answer!
+- 💬 Ask me a question and send me an e-mail [jonare@brattaasutvikling.no](mailto:jonare@brattaasutvikling.no), I love to answer!
 - 🌐 You can see my company website through [brattaasutvikling.no](https://brattaasutvikling.no)
 - 🌐 For my portfolio website check out [Jon Are | Front End Developer](https://portfolio-jahb.netlify.app/)
 
